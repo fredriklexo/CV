@@ -1,0 +1,42 @@
+Inlämningsuppgift 1
+
+Studenten skall bygga en statisk hemsida i HTML och CSS för att marknadsför sina kunskaper - ett CV.
+
+ 
+
+Betyg: IG - G
+
+ 
+
+Sidan skall innehålla:
+
+Header
+Rubrik(er) (förslagsvis ert namn, namn på sajten eller dylikt…) 
+Bild(er)
+Presentationstext(er)
+Lista på 5 saker
+Footer
+ 
+
+Krav
+
+ 
+
+HTML filer som innehåller strukturen.
+
+En separat CSS fil som innehåller stylingen.
+Sidan skall vara respons (mobil, tablet & desktop).
+Taggar som minst skall användas utöver basstrukturen: title, header, footer, section, div, h1, img, p, ul/ol/li.
+CSS filen skall innehålla minst en klassväljare, en elementväljare och en idväljare (väljare == selector).
+Minst två separata html-filer med länkningar emellan
+Minst två anchor-länkar (scrollänkar)
+Skall laddas upp på GIT.
+
+
+
+
+
+
+
+CV insperation
+http://offsetcode.com/themes/mstone/2.3.1/index-7.html
